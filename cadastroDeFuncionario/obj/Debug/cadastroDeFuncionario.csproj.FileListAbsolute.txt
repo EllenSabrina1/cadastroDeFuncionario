@@ -1,0 +1,13 @@
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\bin\Debug\cadastroDeFuncionario.exe.config
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\bin\Debug\cadastroDeFuncionario.exe
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\bin\Debug\cadastroDeFuncionario.pdb
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.csproj.AssemblyReference.cache
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.Form1.resources
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.Properties.Resources.resources
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.csproj.GenerateResource.cache
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.exe
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.pdb
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.Form2.resources
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.Form3.resources
+C:\Users\ellen\source\repos\cadastroDeFuncionario\cadastroDeFuncionario\obj\Debug\cadastroDeFuncionario.Form4.resources
